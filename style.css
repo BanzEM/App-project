@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+form {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+section {
+  text-align: center;
+  font-size: 20px;
+}
+
+body {
+  padding: 300px;
+  padding-top: 40px;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #9fd3c7;
+}
+input {
+  width: 600px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.forecast {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.day {
+  text-align: center;
+  font-size: 25px;
+}
+.emoji {
+  text-align: center;
+  font-size: 80px;
+}
+.date {
+  text-align: center;
+  font-size: 20px;
+}
+
+.rounded-pill {
+  padding: 15px;
+  font-size: 20px;
+}
+.emoticon {
+  font-size: 30px;
+}
+.container {
+  background-color: #fbfbfb;
+}
+.days {
+  font-weight: bold;
+}
